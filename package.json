@@ -1,0 +1,19 @@
+{
+  "name": "jscalculator",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript Calculator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamdarkpanda/jsCalculator.git"
+  },
+  "author": "TeamDarkPanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamdarkpanda/jsCalculator/issues"
+  },
+  "homepage": "https://github.com/teamdarkpanda/jsCalculator#readme"
+}
